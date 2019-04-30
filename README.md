@@ -14,9 +14,15 @@ Variable selection --model with highest probablity
 Bayesian linear model <br />
 ![](Figures/Bayesian_linear_model.png)
 
-Bayesian model averging
+Bayesian model averaging
 ![](Figures/Bayesian_model_averging.png)
 
 ## LSTM Model
 The results are generated in LSTM_model.ipynb, include timeseries plots, loss function history, and model prediction.
+
+Timeseries plots of PM2.5 and predictors
+![](Figures/timeseries_plots.png)
+
+Timeseries plots of Pm2.5 in five cities
+![](Figures/Five_cities_timeseries.png)
 
