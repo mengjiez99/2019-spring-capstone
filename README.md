@@ -29,5 +29,5 @@ Timeseries plots of Pm2.5 in five cities
 LSTM network training --loss function
 ![](Figures/loss_function.png)
 
-Model prediction -- e.g. Chengdu
+Model prediction -- e.g. Chengdu <br />
 ![](Figures/model_prediction_chengdu.png)
