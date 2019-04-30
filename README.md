@@ -26,3 +26,8 @@ Timeseries plots of PM2.5 and predictors
 Timeseries plots of Pm2.5 in five cities
 ![](Figures/Five_cities_timeseries.png)
 
+LSTM network training --loss function
+![](Figures/loss_function.png)
+
+Model prediction -- e.g. Chengdu
+![](Figures/model_prediction_chengdu.png)
