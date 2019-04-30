@@ -11,7 +11,7 @@ The results are generated in Bayesian_Model.R, include variable selection, bayes
 Variable selection --model with highest probablity
 ![variable selection --model with highest probablity](Figures/variable_selection.png)
 
-Bayesian linear model\n
+Bayesian linear model <br />
 ![](Figures/Bayesian_linear_model.png)
 
 Bayesian model averging
